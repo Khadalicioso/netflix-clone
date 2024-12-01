@@ -19,8 +19,8 @@ A Netflix clone web application built with modern web technologies. This project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/netflix__clone.git
-   cd netflix__clone
+   git clone https://github.com/Khadalicioso/netflix_clone.git
+   cd netflix_clone
    ```
 
 2. Install dependencies:
